@@ -1,3 +1,7 @@
-﻿Sitemap: https://chansluts.com/sitemap.txt
+﻿Sitemap: https://jemnezymy.com/sitemap.txt
 
-#kute and skweet
+User-agent: *
+Disallow: /gallery5/cracky1/
+Disallow: /gallery5/cracky2/
+
+#qute and queet
