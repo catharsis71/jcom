@@ -4,3 +4,7 @@ https://jemnezymy.com/gallery5/
 https://jemnezymy.com/pasta5.txt
 https://jemnezymy.com/robots.txt
 https://jemnezymy.com/sitemap.txt
+https://juice.jemnezymy.com/
+https://juice.jemnezymy.com/cgi-bin/classic.rb
+https://juice.jemnezymy.com/robots.txt
+https://juice.jemnezymy.com/sitemap.xml
