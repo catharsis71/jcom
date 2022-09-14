@@ -1,6 +1,6 @@
 @import url("basic.css");
 body {
-  background: url(/gallery5/background.webp) center center no-repeat;
+  background: url(../background.webp) center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
